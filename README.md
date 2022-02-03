@@ -15,5 +15,5 @@ I'm a **Software Developer & Data Analyst** who is passionate about making contr
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?michelo243" />
 </a>
 <a href="https://github.com/michelo243">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?michelo243&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=michelo243&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
 </a>
