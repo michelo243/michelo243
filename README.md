@@ -7,7 +7,7 @@ I'm a **Software Developer & Data Analyst** who is passionate about making contr
 
 ## Find me around the web
 
-- Sharing updates on <a  href="https://www.linkedin.com/in/michelo243/">LinkedIn</a> 💼
+- Sharing updates on <a  href="https://linktr.ee/michelo243">All my links</a> 💼
 
 ## An idea on my work
 
