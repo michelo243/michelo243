@@ -9,11 +9,4 @@ I'm a **Software Developer & Data Analyst** who is passionate about making contr
 
 - Sharing updates on <a  href="https://linktr.ee/michelo243">All my links</a> 💼
 
-## An idea on my work
 
-<a href="https://github.com/michelo243">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michelo243" />
-</a>
-<a href="https://github.com/michelo243">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=michelo243&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
-</a>
