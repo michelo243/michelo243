@@ -1,13 +1,14 @@
-Hi 👋 My name is Michelo
+Yo 👋 ! I'm Michelo
 ========================
 
 Software Developer | Data Analyst | Information Management
 ----------------------------------------------------------
 
-I'm passionate about making contributions to open-source and data, creating technology, providing solutions through technology, elevating people, and building community. Some technologies I enjoy working with include Android (Java, Kotlin), Flutter, C#, Asp .Net Core, JavaScript, Python, R, TypeScript, and GraphQL.
+I'm passionate about making contributions to open-source and data, creating technology, providing solutions through technology, elevating people, and building community. Some technologies I enjoy working with  include Data and GIS Analysis are Mobile development (Java, Kotlin, Flutter), C#, Asp .Net Core, JavaScript, Python, R, TypeScript, and GraphQL. 
 
-* 🌍  I'm based in Congo - Kinshasa
-* 🖥️  See my portfolio at [Sharing updates on](http://linktr.ee/michelo243)
+* 🌍  I'm based in Congo - Kinshasa & Rwanda
+* 🖥️  See my portfolio at [FIND ME HERE ! 😎](http://linktr.ee/michelo243)
+* 🚀  I'm currently working on [OpenGIS Lab Project](http://t.me/OpenGISLab)
 
 ### Skills
 
@@ -33,6 +34,7 @@ I'm passionate about making contributions to open-source and data, creating tech
 <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
+<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 <a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
 <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
 </p>
@@ -46,6 +48,6 @@ I'm passionate about making contributions to open-source and data, creating tech
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/michelo243"><img src="https://github-readme-stats.vercel.app/api?username=michelo243&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=f97316&icon_color=0891b2&bg_color=0f172a&hide_border=true&show_icons=true" alt="michelo243's GitHub stats" /></a>
+<a href="http://www.github.com/michelo243"><img src="https://github-readme-stats.vercel.app/api?username=michelo243&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ef4444&icon_color=0891b2&bg_color=0f172a&hide_border=true&show_icons=true" alt="michelo243's GitHub stats" /></a>
 
-<a href="http://www.github.com/michelo243"><img src="https://activity-graph.herokuapp.com/graph?username=michelo243&bg_color=0f172a&color=f97316&line=0891b2&point=f97316&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/michelo243"><img src="https://activity-graph.herokuapp.com/graph?username=michelo243&bg_color=0f172a&color=ef4444&line=0891b2&point=ef4444&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
