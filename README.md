@@ -1,8 +1,8 @@
 Yo 👋 ! I'm Michelo
 ========================
 
-Software Developer | Data Analyst | Information Management
-----------------------------------------------------------
+Software Developer | Data Analyst | Information Management | GIS Specialist
+----------------------------------------------------------------------------
 
 I'm passionate about making contributions to open-source and data, creating technology, providing solutions through technology, elevating people, and building community. Some technologies I enjoy working with  include Data and GIS Analysis are Mobile development (Java, Kotlin, Flutter), C#, Asp .Net Core, JavaScript, Python, R, TypeScript, and GraphQL. 
 
