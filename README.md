@@ -7,8 +7,8 @@ Software Developer | Data Analyst | Information Management | GIS Specialist
 I'm passionate about making contributions to open-source and data, creating technology, providing solutions through technology, elevating people, and building community. Some technologies I enjoy working with  include Data and GIS Analysis are Mobile development (Java, Kotlin, Flutter), C#, Asp .Net Core, JavaScript, Python, R, TypeScript, and GraphQL. 
 
 * 🌍  I'm based in Congo - Kinshasa & Rwanda
-* 🖥️  See my portfolio at [FIND ME HERE ! 😎](http://linktr.ee/michelo243)
-* 🚀  I'm currently working on [OpenGIS Lab Project](http://t.me/OpenGISLab)
+* 🖥️  See my portfolio at [FIND ME HERE ! 😎](https://iammichelo.bio.link)
+* 🚀  I'm currently working on [OpenGIS Lab Project](https://t.me/OpenGISLab)
 
 ### Skills
 
