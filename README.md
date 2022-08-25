@@ -1,14 +1,14 @@
-Yo 👋 ! I'm Michelo
-========================
+Yo 👋 ! I'm Michelo 
+=====================
 
-Software Developer | Data Analyst | Information Management | GIS Specialist
-----------------------------------------------------------------------------
+Software Developer | Data Scientist | Information Management | GIS Specialist
+------------------------------------------------------------------------------
 
-I'm passionate about making contributions to open-source and data, creating technology, providing solutions through technology, elevating people, and building community. Some technologies I enjoy working with  include Data Analysis (with Python, R, Panda ...), GIS Analysis (ArcGis, ArcGis Pro, Envi, D3.js, ChartJS, LeafLetJS, Remote Sensing, Erdas Imagine, OpenStreetMap ) and Mobile/Software development (Java, Kotlin, Flutter, C#, Asp .Net Core - Blazor, JavaScript, Python, TypeScript, and GraphQL, SQL). 
+I'm passionate about making contributions to open-source and data, creating technology, providing solutions through technology, elevating people, and building community. Some technologies I enjoy working with  include Data Science/Analysis (with Python, R, Pandas, ML ...), GIS Analysis (ArcGis, ArcGis Pro, Envi, D3.js, ChartJS, LeafLetJS, Remote Sensing, Erdas Imagine, OpenStreetMap ) and Mobile/Software development (Java, Kotlin, Flutter, C#, Asp .Net Core - Blazor, JavaScript, Python, TypeScript, and GraphQL, SQL). 
 
 * 🌍  I'm based in Congo - Kinshasa & Rwanda
 * 🖥️  See my portfolio at [FIND ME HERE ! 😎](https://iammichelo.bio.link)
-* 🚀  I'm currently working on [OpenGIS Lab Project](https://t.me/OpenGISLab)
+* 🚀  I'm currently working on [OpenGIS Lab Project](https://t.me/OpenGISLab) & ML projects
 
 ### Skills
 
