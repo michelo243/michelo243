@@ -1,7 +1,7 @@
 Yo 👋 ! I'm Michelo 
 =====================
 
-Software Developer | Data Scientist | Information Management | GIS Specialist
+Information Management | GIS Specialist
 ------------------------------------------------------------------------------
 
 I'm passionate about making contributions to open-source and data, creating technology, providing solutions through technology, elevating people, and building community. Some technologies I enjoy working with  include Data Science/Analysis (with Python, R, Pandas, ML ...), GIS Analysis (ArcGis, ArcGis Pro, Envi, D3.js, ChartJS, LeafLetJS, Remote Sensing, Erdas Imagine, OpenStreetMap ) and Mobile/Software development (Java, Kotlin, Flutter, C#, Asp .Net Core - Blazor, JavaScript, Python, TypeScript, and GraphQL, SQL). 
