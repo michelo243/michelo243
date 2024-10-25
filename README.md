@@ -4,7 +4,7 @@ Yo 👋 ! I'm Michelo
 Information Management | GIS Specialist
 ------------------------------------------------------------------------------
 
-I'm passionate about making contributions to open-source and data, creating technology, providing solutions through technology, elevating people, and building community. Some technologies I enjoy working with  include Data Science/Analysis (with Python, R, Pandas, ML ...), GIS Analysis (ArcGis, ArcGis Pro, Envi, D3.js, ChartJS, LeafLetJS, Remote Sensing, Erdas Imagine, OpenStreetMap ) and Mobile/Software development (Java, Kotlin, Flutter, C#, Asp .Net Core - Blazor, JavaScript, Python, TypeScript, and GraphQL, SQL). 
+I'm passionate about contributing to open-source and data, creating technology, providing solutions through technology, elevating people, and building community. Some technologies I enjoy working with  include Data Science/Analysis (with Python, R, Pandas, ML ...), GIS Analysis (ArcGis, ArcGis Pro, Envi, D3.js, ChartJS, LeafLetJS, Remote Sensing, Erdas Imagine, OpenStreetMap ) and Mobile/Software development (Java, Kotlin, Flutter, C#, Asp .Net Core - Blazor, JavaScript, Python, TypeScript, and GraphQL, SQL). 
 
 * 🌍  I'm based in Congo - Kinshasa & Rwanda
 * 🖥️  See my portfolio at [FIND ME HERE ! 😎](https://iammichelo.bio.link)
@@ -14,7 +14,6 @@ I'm passionate about making contributions to open-source and data, creating tech
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
-<a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
@@ -40,7 +39,7 @@ I'm passionate about making contributions to open-source and data, creating tech
 
 ### Badges
 <a href="https://github.com/michelo243/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=michelo243&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=michelo243&show=reviews,prs_merged,prs_merged_percentage" />
 </a>
 <a href="https://github.com/michelo243/xEntry">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=michelo243&layout=compact&langs_count=8&card_width=320" />
