@@ -39,17 +39,12 @@ I'm passionate about making contributions to open-source and data, creating tech
 <p align="left"> <a href="https://www.dev.to/Michelo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://www.github.com/michelo243" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/michelo243" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/misamuna" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/IamMichelo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/SynapseHubTV" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
 
 ### Badges
-b>My Top languages</b>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michelo243&size_weight=0.5&count_weight=0.5)](https://github.com/michelo243/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michelo243&layout=pie)](https://github.com/michelo243/github-readme-stats)
-
-<b>My GitHub Stats</b>
-
-![Chelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=michelo243&show_icons=true&theme=tokyonight)
-
-<a href="https://www.github.com/michelo243">
-    <img src="https://activity-graph.herokuapp.com/graph?username=michelo243&bg_color=0f172a&color=ef4444&line=0891b2&point=ef4444&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph for michelo243" />
+<a href="https://github.com/michelo243/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=michelo243&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
 </a>
+<a href="https://github.com/michelo243/xEntry">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=michelo243&layout=compact&langs_count=8&card_width=320" />
+</a>
+
+
 
